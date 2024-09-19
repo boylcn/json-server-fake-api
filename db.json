@@ -1,0 +1,18 @@
+{
+    "personals": [
+      { "id": "1", "name": "Cody Fisher", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Lead Designer" },
+      { "id": "2", "name": "Kristin Coper", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Project Management" },
+      { "id": "3", "name": "Guy Hawkins", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Lead Designer" },
+      { "id": "4", "name": "Wade Wareen", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Designer" },
+      { "id": "5", "name": "Bessie Cooper", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Product Manager" },
+      { "id": "6", "name": "Jacob Jones", "image":"https://cdn.boylcn.com/personals/personal($id).png", "role": "Art Director" }
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
+  
