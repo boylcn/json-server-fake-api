@@ -1,28 +1,12 @@
 {
-    "name": "json-server-fake-api",
+    "name": "json-server-vercel",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "Deploy JSON Server to Vercel",
+    "main": "api/server.js",
     "scripts": {
-        "start": "node server.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node api/server.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/boylcn/json-server-fake-api.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "JS",
-    "bugs": {
-        "url": "https://github.com/boylcn/json-server-fake-api"
-    },
-    "homepage": "https://github.com/boylcn/json-server-fake-api#readme",
     "dependencies": {
-        "cors": "^2.8.5",
-        "json-serve": "^0.1.0"
-    },
-    "devDependencies": {
-        "json-server": "^0.17.4"
+      "json-server": "^0.17.4"
     }
-}
+  }
