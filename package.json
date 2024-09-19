@@ -4,12 +4,12 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "node server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/boylcn/json-server-fake-api"
+        "url": "git+https://github.com/boylcn/json-server-fake-api.git"
     },
     "keywords": [],
     "author": "",
@@ -20,7 +20,9 @@
     "homepage": "https://github.com/boylcn/json-server-fake-api#readme",
     "dependencies": {
         "cors": "^2.8.5",
-        "json-serve": "^0.1.0",
-        "json-server": "^1.0.0-beta.2"
+        "json-serve": "^0.1.0"
+    },
+    "devDependencies": {
+        "json-server": "^0.17.4"
     }
 }
