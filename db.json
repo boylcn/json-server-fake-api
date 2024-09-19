@@ -1,18 +1,18 @@
 {
-  "personals": [
-    { "id": "1", "name": "Cody Fisher", "image":"https://cdn.boylcn.com/personals/personal1.png", "role": "Lead Designer" },
-    { "id": "2", "name": "Kristin Coper", "image":"https://cdn.boylcn.com/personals/personal2.png", "role": "Project Management" },
-    { "id": "3", "name": "Guy Hawkins", "image":"https://cdn.boylcn.com/personals/personal3.png", "role": "Lead Designer" },
-    { "id": "4", "name": "Wade Wareen", "image":"https://cdn.boylcn.com/personals/personal4.png", "role": "Designer" },
-    { "id": "5", "name": "Bessie Cooper", "image":"https://cdn.boylcn.com/personals/personal5.png", "role": "Product Manager" },
-    { "id": "6", "name": "Jacob Jones", "image":"https://cdn.boylcn.com/personals/personal6.png", "role": "Art Director" }
-    { "id": "7", "name": "Kelly Mister", "image":"https://cdn.boylcn.com/personals/personal7.png", "role": "Developer" }
-    { "id": "8", "name": "Dennis Early", "image":"https://cdn.boylcn.com/personals/personal8.png", "role": "DevOps Manager" }
-    { "id": "9", "name": "Vito Marcelo", "image":"https://cdn.boylcn.com/personals/personal9.png", "role": "Frontend Developer" }
-    { "id": "10", "name": "Cameron Jacob", "image":"https://cdn.boylcn.com/personals/personal10.png", "role": "Full Stack Developer" }
-    { "id": "11", "name": "Mia Rainy", "image":"https://cdn.boylcn.com/personals/personal11.png", "role": "Senior Developer" }
-    { "id": "12", "name": "David Cheng", "image":"https://cdn.boylcn.com/personals/personal12.png", "role": "UI Designer" }
-  ],
+    "personals": [
+      { "id": "1", "name": "Cody Fisher", "image":"https://cdn.boylcn.com/personals/personal1.png", "role": "Lead Designer" },
+      { "id": "2", "name": "Kristin Coper", "image":"https://cdn.boylcn.com/personals/personal2.png", "role": "Project Management" },
+      { "id": "3", "name": "Guy Hawkins", "image":"https://cdn.boylcn.com/personals/personal3.png", "role": "Lead Designer" },
+      { "id": "4", "name": "Wade Wareen", "image":"https://cdn.boylcn.com/personals/personal4.png", "role": "Designer" },
+      { "id": "5", "name": "Bessie Cooper", "image":"https://cdn.boylcn.com/personals/personal5.png", "role": "Product Manager" },
+      { "id": "6", "name": "Jacob Jones", "image":"https://cdn.boylcn.com/personals/personal6.png", "role": "Art Director" },
+      { "id": "7", "name": "Kelly Mister", "image":"https://cdn.boylcn.com/personals/personal7.png", "role": "Developer" },
+      { "id": "8", "name": "Dennis Early", "image":"https://cdn.boylcn.com/personals/personal8.png", "role": "DevOps Manager" },
+      { "id": "9", "name": "Vito Marcelo", "image":"https://cdn.boylcn.com/personals/personal9.png", "role": "Frontend Developer" },
+      { "id": "10", "name": "Cameron Jacob", "image":"https://cdn.boylcn.com/personals/personal10.png", "role": "Full Stack Developer" },
+      { "id": "11", "name": "Mia Rainy", "image":"https://cdn.boylcn.com/personals/personal11.png", "role": "Senior Developer" },
+      { "id": "12", "name": "David Cheng", "image":"https://cdn.boylcn.com/personals/personal12.png", "role": "UI Designer" }
+    ],
     "comments": [
       { "id": "1", "text": "a comment about post 1", "postId": "1" },
       { "id": "2", "text": "another comment about post 1", "postId": "1" }
